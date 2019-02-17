@@ -7,6 +7,8 @@ The folder "images" contains the raw images used in this project.
 
 The folder "training" contains the label map, object detection training pipeline, and exported model.
 
+The folder "test_images" contains the randomly-selected training, test, and online images used to evaluate the model.
+
 1) The Jupyter notebook "xml_to_csv.ipynb" condenses the information in the xml files to an overall CSV file called "smile_labels.csv".
 
 2) The Jupyter notebook "draw boxes.ipynb" shows some of the images, with their bounding boxes.
