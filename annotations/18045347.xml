@@ -1,0 +1,26 @@
+<annotation>
+	<folder>epl_images</folder>
+	<filename>18045347.png</filename>
+	<path>C:\Users\USER\Desktop\epl_images\18045347.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>96</ymin>
+			<xmax>110</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>
