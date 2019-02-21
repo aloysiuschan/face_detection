@@ -1,7 +1,7 @@
 <annotation>
-	<folder>epl_images</folder>
+	<folder>images</folder>
 	<filename>27000592.png</filename>
-	<path>C:\Users\USER\Desktop\epl_images\27000592.png</path>
+	<path>C:\Users\USER\Desktop\customised object detection\images\27000592.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>smile</name>
+		<name>face</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>70</xmin>
-			<ymin>100</ymin>
-			<xmax>107</xmax>
-			<ymax>116</ymax>
+			<xmin>43</xmin>
+			<ymin>35</ymin>
+			<xmax>135</xmax>
+			<ymax>127</ymax>
 		</bndbox>
 	</object>
 </annotation>
